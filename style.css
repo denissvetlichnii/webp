@@ -1,0 +1,14 @@
+body {
+
+}
+.content {
+    background-color: white;
+}
+.prew {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.images {
+   max-width: 700px;
+}
